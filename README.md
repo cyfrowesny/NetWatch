@@ -1,2 +1,14 @@
-# NetWatch
-LOCAL NETWORK MONITORING TOOL
+███╗   ██╗███████╗████████╗██╗    ██╗ █████╗ ████████╗ ██████╗██╗  ██╗
+████╗  ██║██╔════╝╚══██╔══╝██║    ██║██╔══██╗╚══██╔══╝██╔════╝██║  ██║
+██╔██╗ ██║█████╗     ██║   ██║ █╗ ██║███████║   ██║   ██║     ███████║
+██║╚██╗██║██╔══╝     ██║   ██║███╗██║██╔══██║   ██║   ██║     ██╔══██║
+██║ ╚████║███████╗   ██║   ╚███╔███╔╝██║  ██║   ██║   ╚██████╗██║  ██║
+╚═╝  ╚═══╝╚══════╝   ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝
+                    LOCAL NETWORK MONITORING TOOL
+
+<img width="672" height="366" alt="image" src="https://github.com/user-attachments/assets/ddd5c55b-695e-4f53-98b7-4499113eee35" />
+
+## how to run?
+python3 NetWatch.py
+python3 NetWatch.py wlan0
+python3 NetWatch.py eth0
