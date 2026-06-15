@@ -3,7 +3,7 @@
 local network monitoring tool written in Python 3 for hackers and paranoids 
 
 ## how to run?
-`python3 NetWatch.py` and select interface
+`python3 NetWatch.py` and select interface from list
 
 `python3 NetWatch.py wlan0`
 
