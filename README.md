@@ -4,5 +4,7 @@ local network monitoring tool written in Python 3 for hackers and paranoids
 
 ## how to run?
 `python3 NetWatch.py`
-`python3 NetWatch.py wlan0
-python3 NetWatch.py eth0`
+
+`python3 NetWatch.py wlan0`
+
+`python3 NetWatch.py eth0`
